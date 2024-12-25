@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Github Pages+Jekyll Chirpy "
 date:   2024-12-25 01:53:52 +0000
-categories: jekyll update
+categories: jekyll
 ---
 > 本文旨在搭建一个github.io个人主页项目
 > 操作系统win11+vscode+docker

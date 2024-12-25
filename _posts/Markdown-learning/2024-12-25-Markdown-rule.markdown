@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown"
 date:   2024-12-25 01:09:07 +0000
-categories: jekyll update
+categories: Markdown-learning
 ---
 >本文旨在收集 markdown 指令操作
 
