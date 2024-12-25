@@ -57,6 +57,6 @@ order: 4
 
 ## 📬 Contact
 - [Github](https://github.com/rocky-lxj)
-- [Codeforces](https://codeforces.com/profile/roaky
+- [Codeforces](https://codeforces.com/profile/roaky)
 - GMail(roackyliu@gmail.com)
 
