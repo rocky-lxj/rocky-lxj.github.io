@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+gem 'csv'
+gem 'base64'
 
 source "https://rubygems.org"
 
