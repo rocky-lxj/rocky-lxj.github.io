@@ -56,8 +56,12 @@ categories: jekyll update
 
 ### 语言/时间/侧边栏/标语
 > timezone: 中国输入 Asia/Shanghai
->lang: 语言，默认英文。中文设置zh-CN
+>
+>
+> lang: 语言，默认英文。中文设置zh-CN
+>
 > title: 侧边栏名称
+>
 > tagline:自己的标语
 
 ## 本地调试及上传
@@ -79,8 +83,12 @@ categories: jekyll update
 
 ## 参考地址
 > [【避坑篇】使用Github Pages搭建个人主页or博客网站](https://zhuanlan.zhihu.com/p/641525444)
+>
+>
 > [【快速部署+客制化】Github Pages+Jekyll Chirpy 速搭个人主页](https://zhuanlan.zhihu.com/p/695291923)
+>
 > [using-the-chirpy-starter](https://chirpy.cotes.page/posts/getting-started/#option-1-using-the-chirpy-starter)
+>
 > [Windows10 docker安装D盘，更改docker镜像默认保存路径](https://www.cnblogs.com/luzhuangzhi/p/17869210.html#:~:text=1%E3%80%81%E8%BF%90%E8%A1%8Cdocker%EF%BC%8C%E8%BF%9B%E5%85%A5%E8%AE%BE%E7%BD%AE%E9%A1%B5%EF%BC%8C%E7%82%B9%E5%87%BBResources%E9%80%89%E9%A1%B9%EF%BC%8C%E5%8F%91%E7%8E%B0%E9%95%9C%E5%83%8F%E9%BB%98%E8%AE%A4%E5%AE%89%E8%A3%85%E5%9C%A8%25UserProfile%25%5B%26AppDataLocal%26%5DDockerwsl%E7%9B%AE%E5%BD%95%E4%B8%8B%202%E3%80%81%E7%82%B9%E5%87%BBBrowse%E6%8C%89%E9%92%AE%EF%BC%8C%E9%80%89%E6%8B%A9%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%85%B6%E4%BB%96%E7%9B%98%E8%B7%AF%E5%BE%84%EF%BC%8C%E4%BE%8B%E5%A6%82%EF%BC%9AD%3AProgram%20%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%9A,3%E3%80%81%E6%9C%80%E5%90%8E%E7%82%B9%E5%87%BBApply%20%26%20restart%E6%8C%89%E9%92%AE%E9%87%8D%E5%90%AFDocker%E5%8D%B3%E5%8F%AF%E7%94%9F%E6%95%88%E3%80%82)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
