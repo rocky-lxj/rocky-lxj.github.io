@@ -77,7 +77,7 @@ categories: jekyll
 > 参考该[项目](https://rubygems.org/gems/jekyll-compose)
 > 当需要写文章的时候在终端输入
 > ```
->bundle exec jekyll new _posts/?>(名字).md
+> bundle exec jekyll new _posts/(名字).md
 > ```
 
 
