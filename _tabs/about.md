@@ -37,11 +37,9 @@ order: 4
 
 ## 2024 The 2024 ICPC China Kunming NationalInvitational Programming Contest👇
 ![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/km-team.png)
-![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/km-person.png)
 
 ## 2024 The 2024 ICPC China Xian NationalInvitational Programming Contest
 ![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/xa-team.png)
-![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/xa-person.png)
 
 ## 2024 江苏省大学生程序设计大赛👇
 ![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/2024jscpc.png)
