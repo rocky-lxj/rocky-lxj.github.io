@@ -16,10 +16,11 @@ cat >"_posts/$FILENAME" <<EOL
 layout: post
 title: "$TITLE"
 date: $DATE
-categories: jekyll
+categories: []
+tags: []
+published: true
+author : "rocky-lxj"
 ---
-
-# Your content here
 EOL
 
 echo "New post created: _posts/$FILENAME"
