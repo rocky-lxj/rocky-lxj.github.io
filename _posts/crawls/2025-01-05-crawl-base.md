@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "crawl base"
+title: "爬虫基础"
 date: 2025-01-05 00:14:46 +0000
 categories: [爬虫]
 tags: [python,爬虫]

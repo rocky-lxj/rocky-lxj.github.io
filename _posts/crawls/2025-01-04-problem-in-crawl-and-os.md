@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "problem in crawl and os"
+title: "操作系统在爬虫的问题"
 date: 2025-01-04 23:42:36 +0000
 categories: [爬虫]
 tags: [os,爬虫]

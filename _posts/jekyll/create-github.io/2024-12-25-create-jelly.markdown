@@ -81,7 +81,13 @@ published: flase
 > ```
 > bundle exec jekyll new _posts/(名字).md
 > ```
+> 若需要快速建立，可尝试使用shell脚本，在本文件中 /workspaces/rocky-lxj.github.io/create_post.sh
+> 使用时在终端使用 bash create_post.sh
+> 即输入当前需要的title
 
+## 图片上传问题
+> 将文件上传至github仓库
+> 复制当前图片地址，blob变化为raw
 
 ## 参考地址
 > [【避坑篇】使用Github Pages搭建个人主页or博客网站](https://zhuanlan.zhihu.com/p/641525444)
