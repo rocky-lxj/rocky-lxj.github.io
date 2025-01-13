@@ -2,8 +2,8 @@
 layout: post
 title: "problem in crawl and os"
 date: 2025-01-04 23:42:36 +0000
-categories: [crawls]
-tags: [os,crawls]
+categories: [爬虫]
+tags: [os,爬虫]
 published: true
 author : "rocky-lxj"
 ---

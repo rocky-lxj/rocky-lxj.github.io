@@ -2,8 +2,8 @@
 layout: post
 title: "crawl base"
 date: 2025-01-05 00:14:46 +0000
-categories: [crawls]
-tags: [python,crawls]
+categories: [爬虫]
+tags: [python,爬虫]
 published: true
 author : "rocky-lxj"
 ---

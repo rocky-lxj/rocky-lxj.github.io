@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown"
 date:   2024-12-25 01:09:07 +0000
-categories: Markdown-learning
+categories: Markdown
 tags: [markdown]
 published: true
 author : "rocky-lxj"

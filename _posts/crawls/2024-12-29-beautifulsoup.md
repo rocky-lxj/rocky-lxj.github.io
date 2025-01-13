@@ -2,8 +2,8 @@
 layout: post
 title: "beautifulsoup"
 date: 2024-12-29 10:51:23 +0000
-categories: [crawls]
-tags: [beautifulsoup,crawls]
+categories: [爬虫]
+tags: [beautifulsoup,爬虫]
 published: true
 author : "rocky-lxj"
 ---
