@@ -36,22 +36,22 @@ order: 4
 # My achivement in colloge 👇
 
 ## 2024 The 2024 ICPC China Kunming NationalInvitational Programming Contest👇
-![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/km-team.png)
+![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/km-team.png)
 
 ## 2024 The 2024 ICPC China Xian NationalInvitational Programming Contest
-![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/xa-team.png)
+![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/xa-team.png)
 
 ## 2024 江苏省大学生程序设计大赛👇
-![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/2024jscpc.png)
+![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/2024jscpc.png)
 
 ## 2023 江苏省大学生程序设计大赛👇
-![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/2023jscpc.png)
+![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/2023jscpc.png)
 
 ## 蓝桥杯程序设计大赛👇
-![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/15lqb.jpg)
+![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/15lqb.jpg)
 
 ## 传智杯程序设计大赛👇
-![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/czb.jpg)
+![ME](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/czb.jpg)
 
 ## 📬 Contact
 - [Github](https://github.com/rocky-lxj)
