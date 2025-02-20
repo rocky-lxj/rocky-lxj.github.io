@@ -16,12 +16,6 @@ author : "rocky-lxj"
 > 创建app
 > python manage.py startapp [app名称]
 
-> 创建虚拟环境
-> python -m venv venv
-> 激活虚拟环境
-> .\venv\Scripts\activate
-> 推出虚拟环境
-> deactivate
 
 ## 2、运行
  下载完django后，终端输入
