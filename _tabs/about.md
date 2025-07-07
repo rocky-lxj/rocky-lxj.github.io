@@ -22,18 +22,21 @@ order: 4
 
 ### 🧑‍💻 Software & App & Website
 
-|                  Software                   |                  Comment                   |
-| :-----------------------------------------: | :----------------------------------------: |
-|       [ChatGPT](https://openai.com/)        |              What can I say ?              |
-|      [Codeforces](https://codeforces.com/)       |     The best programming platform     |
-|  [VScode](https://code.visualstudio.com/)   |              The best editor               |
-|      [ICPC](https://icpc.global/)       |    International College Student Programming Contest    |
-|      [Github](https://obsidian.md/)       |          The only God          |
-|      [regex101](https://regex101.com/)      |     The best regular expression training platform     |
-|    [oi-wiki](https://oi-wiki.org/contest/resources/)    |        China's largest algorithm teaching platform         |
-|    [Overleaf](https://www.overleaf.com/)    |                Online LaTex                |
+|                     Software                      |                      Comment                      |
+| :-----------------------------------------------: | :-----------------------------------------------: |
+|          [ChatGPT](https://openai.com/)           |                 What can I say ?                  |
+|       [Codeforces](https://codeforces.com/)       |           The best programming platform           |
+|     [VScode](https://code.visualstudio.com/)      |                  The best editor                  |
+|           [ICPC](https://icpc.global/)            | International College Student Programming Contest |
+|          [Github](https://obsidian.md/)           |                   The only God                    |
+|         [regex101](https://regex101.com/)         |   The best regular expression training platform   |
+| [oi-wiki](https://oi-wiki.org/contest/resources/) |    China's largest algorithm teaching platform    |
+|       [Overleaf](https://www.overleaf.com/)       |                   Online LaTex                    |
 
 # My achivement in colloge 👇
+
+## 2025 The 2025 ICPC China Xian NationalInvitational Programming Contest
+![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/xa2025-team.png)
 
 ## 2024 The 2024 ICPC China Kunming NationalInvitational Programming Contest👇
 ![MY TEAM](https://github.com/rocky-lxj/rocky-lxj.github.io/raw/main/src/img/about/km-team.png)
